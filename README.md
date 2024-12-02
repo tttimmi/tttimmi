@@ -1,5 +1,5 @@
 - @tttimmi
-- I’m interested in developping applications
+- I’m interested in developping desktop applications
 - I know java, python, c# a bit, and the basics of c++
 - Pronouns: he/him, they/them
 
